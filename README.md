@@ -14,23 +14,7 @@ Frontend: HTML, CSS, JavaScript
 Getting Started
 Clone the repository:
 
-bash
-Copy
-Edit
 git clone https://github.com/ha223dp/foodhomepage.git
-Install the necessary dependencies:
-
-nginx
-Copy
-Edit
-npm install
-Start the server:
-
-sql
-Copy
-Edit
-npm start
-Open your browser and go to http://localhost:3000 to explore the site.
 
 Contributing
 We welcome contributions! Feel free to fork the repository and submit pull requests with your improvements.
