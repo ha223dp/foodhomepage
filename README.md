@@ -17,7 +17,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/foodhomesite.git
+git clone https://github.com/ha223dp/foodhomepage.git
 Install the necessary dependencies:
 
 nginx
